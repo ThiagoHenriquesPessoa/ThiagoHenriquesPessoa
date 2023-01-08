@@ -1,7 +1,7 @@
 ### Ola1 Eu sou o Thiago Henriques
 
 - 🔭 Hoje eu trabalho com back-end e front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando Vue
 - 📫 Contate-me pelo celular: (84) 9 9670-8213
 - 😄 Pronouns: ele/dele
 
