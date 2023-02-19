@@ -1,4 +1,4 @@
-### Ola1 Eu sou o Thiago Henriques
+### Ola! Eu sou o Thiago Henriques
 
 - 🔭 Hoje eu trabalho com back-end e front-end
 - 🌱 Estudando Xamarin
