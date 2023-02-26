@@ -9,14 +9,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,nodejs,css,html,js,ts,angular,vue,cs,sqlserver,xamarin" />    
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
-  <img src="https://img2.gratispng.com/20180327/lve/kisspng-xamarin-android-cross-platform-native-studio-5ab9c3603da149.3717766815221236162524.jpg" width="50px" />
-  <img src="https://img2.gratispng.com/20180618/kxr/kisspng-sql-for-dummies-database-computer-icons-sql-server-reporting-services-5b281a3066ce41.4743697915293548004211.jpg" width="50px" />
-  <img src="https://img2.gratispng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" width="50px" />
-  <img src="" width="50px" />
-  <img src="" width="50px" />
-  <img src="" width="50px" />
-
 </p>
 
 ##
