@@ -10,7 +10,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,nodejs,css,html,js,ts,angular,vue,cs,sqlserver,xamarin" />    
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
-  <img src="https://img1.gratispng.com/20180927/aae/kisspng-xamarin-computer-icons-mobile-app-development-user-posts-wael-emara-5bad1c6a6d67c1.7063454115380716584481.jpg" width="50px" />
+  <img src="https://img2.gratispng.com/20180327/lve/kisspng-xamarin-android-cross-platform-native-studio-5ab9c3603da149.3717766815221236162524.jpg" width="50px" />
+  <img src="" width="50px" />
+  <img src="" width="50px" />
+  <img src="" width="50px" />
+  <img src="" width="50px" />
+  <img src="" width="50px" />
+
 </p>
 
 ##
