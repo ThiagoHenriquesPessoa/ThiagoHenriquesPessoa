@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,nodejs,css,html,js,ts,angular,vue,cs,sqlserver,xamarin" />    
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_SqlServer_logo_2.svg" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_SqlServer.svg" width="50px" />
 </p>
 
 ##
