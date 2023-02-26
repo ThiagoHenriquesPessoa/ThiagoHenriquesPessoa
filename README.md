@@ -11,7 +11,7 @@
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
   <img src="https://img2.gratispng.com/20180327/lve/kisspng-xamarin-android-cross-platform-native-studio-5ab9c3603da149.3717766815221236162524.jpg" width="50px" />
-  <img src="" width="50px" />
+  <img src="https://img2.gratispng.com/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg" width="50px" />
   <img src="" width="50px" />
   <img src="" width="50px" />
   <img src="" width="50px" />
