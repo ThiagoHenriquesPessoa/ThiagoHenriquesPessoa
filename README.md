@@ -11,7 +11,7 @@
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
   <img src="https://img2.gratispng.com/20180327/lve/kisspng-xamarin-android-cross-platform-native-studio-5ab9c3603da149.3717766815221236162524.jpg" width="50px" />
-  <img src="https://img2.gratispng.com/20180320/yaw/kisspng-microsoft-sql-server-database-administrator-comput-free-high-quality-sql-server-icon-5ab0c7c9b28e37.6388540115215349217314.jpg" width="50px" />
+  <img src="https://img2.gratispng.com/20180618/kxr/kisspng-sql-for-dummies-database-computer-icons-sql-server-reporting-services-5b281a3066ce41.4743697915293548004211.jpg" width="50px" />
   <img src="" width="50px" />
   <img src="" width="50px" />
   <img src="" width="50px" />
