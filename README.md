@@ -1,13 +1,13 @@
 ### Ola! Eu sou o Thiago Henriques
 
 - 🔭 Hoje eu trabalho com back-end e front-end
-- 🌱 Estudando Xamarin
+- 🌱 Estudando Xamarin e Maui
 - 📫 Contate-me pelo celular: (84) 9 9670-8213
 - 😄 Pronouns: ele/dele
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,nodejs,css,html,js,ts,angular,vue,cs" />    
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,nodejs,css,html,js,ts,angular,vue,cs,androidstudio" />    
   </a>
 </p>
 
