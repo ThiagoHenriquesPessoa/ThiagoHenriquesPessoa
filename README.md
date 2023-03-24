@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/thiago-henriques-0b4081139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
+
 <a href=" https://medium.com/@zluvsand ">
     <img height="50" src=" https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512 /Medium_rounded_cr-306.png "/> 
 </a> 
