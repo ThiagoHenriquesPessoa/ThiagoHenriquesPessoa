@@ -36,7 +36,7 @@
 <a href=" https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4 "> 
     <img height="50" src=" https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png "/> 
 </a>
-<div align="center"><br>
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></a>
-  </div>
+<br>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
