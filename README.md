@@ -20,7 +20,7 @@
 </div>
 
 ##
-<div><br>
+<div>
 <a href="https://www.youtube.com/channel/UCMYh_gu1hw9Uvixo_k2q7wQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-henriques-0b4081139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -36,7 +36,6 @@
 <a href=" https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4 ">
     <img height="50" src=" https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png "/> 
 </a>
-
-  
+ ##  
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
