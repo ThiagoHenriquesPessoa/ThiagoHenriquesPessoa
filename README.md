@@ -37,4 +37,4 @@
     <img height="50" src=" https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png "/> 
 </a>
   
- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
