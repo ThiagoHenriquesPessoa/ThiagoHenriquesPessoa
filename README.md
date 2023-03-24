@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/thiago-henriques-0b4081139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href=" https://medium.com/@zluvsand "> <br>
     <img height="50" src=" https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512 /Medium_rounded_cr-306.png "/> 
