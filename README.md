@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Thiago Henriques
 
 - 🔭 Atualmente trabalho com back-end .Net e front-end Vue e Angular
-- 🌱 Desenvolvedor Mobile MAUI
+- 🌱 Desenvolvedor App Multiplataforma MAUI 
 - 📫 Contate-me pelo celular: (84) 9 9670-8213
 - 😄 Pronouns: ele/dele
 
