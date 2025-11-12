@@ -1,9 +1,17 @@
 ## 👋 Olá! Eu sou o Thiago Henriques
 
-- 🔭 Atualmente trabalho com back-end .Net e front-end Vue e Angular
-- 🌱 Desenvolvedor App Multiplataforma MAUI 
-- 📫 Contate-me pelo celular: (84) 9 9670-8213
-- 😄 Pronouns: ele/dele
+Sou desenvolvedor apaixonado por tecnologia, com experiência em soluções **back-end com .NET**, **front-end com Angular**, e **aplicações multiplataforma com MAUI**.
+
+### 🚀 Sobre mim
+- 🔧 Trabalho com desenvolvimento full-stack utilizando tecnologias modernas
+- 📱 Desenvolvedor de apps multiplataforma com .NET MAUI
+- 💡 Entusiasta de boas práticas, arquitetura limpa e interfaces intuitivas
+- 📫 Contato: (84) 9 9670-8213
+- 😄 Pronomes: ele/dele
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +19,9 @@
   </a>
 </p>
 
-## Estatísticas do GitHub
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/ThiagoHenriquesPessoa">
@@ -20,12 +30,14 @@
   </a>
 </p>
 
-## Conecte-se comigo
+---
+
+### 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-henriques-0b4081139/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Thiago" />
-  </a>   
+  </a>
 </p>
 
 <!-- Remova ou substitua essas referências se não forem relevantes -->
