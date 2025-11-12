@@ -1,10 +1,10 @@
 ## 👋 Olá! Eu sou o Thiago Henriques
 
-Sou desenvolvedor apaixonado por tecnologia, com experiência em soluções **back-end com .NET**, **front-end com Angular**, e **aplicações multiplataforma com MAUI**.
+Sou desenvolvedor apaixonado por tecnologia, com experiência em soluções **back-end com .NET**, **front-end com Angular**.
 
 ### 🚀 Sobre mim
 - 🔧 Trabalho com desenvolvimento full-stack utilizando tecnologias modernas
-- 📱 Desenvolvedor de apps multiplataforma com .NET MAUI
+- 📱 Analista de dados e desenvolvimento de relatórios com looker studio
 - 💡 Entusiasta de boas práticas, arquitetura limpa e interfaces intuitivas
 - 📫 Contato: (84) 9 9670-8213
 - 😄 Pronomes: ele/dele
