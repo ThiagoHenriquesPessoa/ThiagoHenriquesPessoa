@@ -7,7 +7,6 @@ Sou desenvolvedor apaixonado por tecnologia, com experiência em soluções **ba
 - 📱 Analista de dados e desenvolvimento de relatórios com looker studio
 - 💡 Entusiasta de boas práticas, arquitetura limpa e interfaces intuitivas
 - 📫 Contato: (84) 9 9670-8213
-- 😄 Pronomes: ele/dele
 
 ---
 
